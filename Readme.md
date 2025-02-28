@@ -40,7 +40,7 @@ _(Add relevant screenshots here if available)_
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/biography-website.git
+   git clone https://github.com/Afzal91004/Mohammed-Afjal-Shaikh-Biography-Website.git
    ```
 2. Open the `index.html` file in your browser.
 
