@@ -29,11 +29,12 @@ Welcome to the repository of **Mohammed Afjal Shaikh - Biography**, a beautifull
 
 ## 🌐 Live Preview
 
-Check out the live demo: [Live Demo Link](#) _(Add link here if hosted)_
-
+Check out the live demo: [Live Demo Link](https://mohammed-afjal-shaikh-biography.vercel.app/) 
+<!--
 ## 📸 Screenshots
 
 _(Add relevant screenshots here if available)_
+-->
 
 ## 📜 Usage
 
