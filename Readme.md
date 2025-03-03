@@ -52,8 +52,8 @@ Contributions are welcome! If you find any issues or want to enhance the project
 
 - **Name**: Mohammed Afjal Shaikh
 - **Email**: [shaikhmohammedafjal@gmail.com](mailto:shaikhmohammedafjal@gmail.com)
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **GitHub**: [github.com/your-username]([https://github.com/your-username](https://github.com/Afzal91004/Planets-Data.git))
+- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/mohammed-afjal-shaikh)
 
 ---
 
